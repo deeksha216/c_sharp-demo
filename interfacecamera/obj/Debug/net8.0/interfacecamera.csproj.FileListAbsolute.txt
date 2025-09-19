@@ -1,0 +1,14 @@
+C:\Users\BCA 34\Desktop\dee.c#\interfacecamera\obj\Debug\net8.0\interfacecamera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCA 34\Desktop\dee.c#\interfacecamera\obj\Debug\net8.0\interfacecamera.AssemblyInfoInputs.cache
+C:\Users\BCA 34\Desktop\dee.c#\interfacecamera\obj\Debug\net8.0\interfacecamera.AssemblyInfo.cs
+C:\Users\BCA 34\Desktop\dee.c#\interfacecamera\obj\Debug\net8.0\interfacecamera.csproj.CoreCompileInputs.cache
+C:\Users\BCA 34\Desktop\dee.c#\interfacecamera\bin\Debug\net8.0\interfacecamera.exe
+C:\Users\BCA 34\Desktop\dee.c#\interfacecamera\bin\Debug\net8.0\interfacecamera.deps.json
+C:\Users\BCA 34\Desktop\dee.c#\interfacecamera\bin\Debug\net8.0\interfacecamera.runtimeconfig.json
+C:\Users\BCA 34\Desktop\dee.c#\interfacecamera\bin\Debug\net8.0\interfacecamera.dll
+C:\Users\BCA 34\Desktop\dee.c#\interfacecamera\bin\Debug\net8.0\interfacecamera.pdb
+C:\Users\BCA 34\Desktop\dee.c#\interfacecamera\obj\Debug\net8.0\interfacecamera.dll
+C:\Users\BCA 34\Desktop\dee.c#\interfacecamera\obj\Debug\net8.0\refint\interfacecamera.dll
+C:\Users\BCA 34\Desktop\dee.c#\interfacecamera\obj\Debug\net8.0\interfacecamera.pdb
+C:\Users\BCA 34\Desktop\dee.c#\interfacecamera\obj\Debug\net8.0\interfacecamera.genruntimeconfig.cache
+C:\Users\BCA 34\Desktop\dee.c#\interfacecamera\obj\Debug\net8.0\ref\interfacecamera.dll
