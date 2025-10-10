@@ -1,0 +1,14 @@
+C:\Users\BCA 34\Desktop\dee.c#\delegate\bin\Debug\net8.0\delegate.exe
+C:\Users\BCA 34\Desktop\dee.c#\delegate\bin\Debug\net8.0\delegate.deps.json
+C:\Users\BCA 34\Desktop\dee.c#\delegate\bin\Debug\net8.0\delegate.runtimeconfig.json
+C:\Users\BCA 34\Desktop\dee.c#\delegate\bin\Debug\net8.0\delegate.dll
+C:\Users\BCA 34\Desktop\dee.c#\delegate\bin\Debug\net8.0\delegate.pdb
+C:\Users\BCA 34\Desktop\dee.c#\delegate\obj\Debug\net8.0\delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCA 34\Desktop\dee.c#\delegate\obj\Debug\net8.0\delegate.AssemblyInfoInputs.cache
+C:\Users\BCA 34\Desktop\dee.c#\delegate\obj\Debug\net8.0\delegate.AssemblyInfo.cs
+C:\Users\BCA 34\Desktop\dee.c#\delegate\obj\Debug\net8.0\delegate.csproj.CoreCompileInputs.cache
+C:\Users\BCA 34\Desktop\dee.c#\delegate\obj\Debug\net8.0\delegate.dll
+C:\Users\BCA 34\Desktop\dee.c#\delegate\obj\Debug\net8.0\refint\delegate.dll
+C:\Users\BCA 34\Desktop\dee.c#\delegate\obj\Debug\net8.0\delegate.pdb
+C:\Users\BCA 34\Desktop\dee.c#\delegate\obj\Debug\net8.0\delegate.genruntimeconfig.cache
+C:\Users\BCA 34\Desktop\dee.c#\delegate\obj\Debug\net8.0\ref\delegate.dll
