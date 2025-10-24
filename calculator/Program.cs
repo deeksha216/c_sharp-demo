@@ -1,55 +1,44 @@
-﻿using System;
+using System;
 
-namespace calculator
+class SimpleCalculator
 {
-    internal class Program
+    static void Main()
     {
-        static void Main(string[] args)
+        double num1, num2, result = 0;
+        char op;
+
+        Console.WriteLine("=== Simple Calculator ===");
+        Console.Write("Enter first number: ");
+        num1 = Convert.ToDouble(Console.ReadLine());
+
+        Console.Write("Enter operator (+, -, *, /): ");
+        op = Convert.ToChar(Console.ReadLine());
+
+        Console.Write("Enter second number: ");
+        num2 = Convert.ToDouble(Console.ReadLine());
+
+        switch (op)
         {
-            Console.WriteLine("Simple Calculator");
-            Console.Write("Enter the first number: ");
-            if (!double.TryParse(Console.ReadLine(), out double num1))
-            {
-                Console.WriteLine("Invalid input.");
-                return;
-            }
-
-            Console.Write("Enter an operator (+, -, *, /): ");
-            string op = Console.ReadLine();
-
-            Console.Write("Enter the second number: ");
-            if (!double.TryParse(Console.ReadLine(), out double num2))
-            {
-                Console.WriteLine("Invalid input.");
-                return;
-            }
-
-            double result;
-            switch (op)
-            {
-                case "+":
-                    result = num1 + num2;
-                    break;
-                case "-":
-                    result = num1 - num2;
-                    break;
-                case "*":
-                    result = num1 * num2;
-                    break;
-                case "/":
-                    if (num2 == 0)
-                    {
-                        Console.WriteLine("Cannot divide by zero.");
-                        return;
-                    }
+            case '+':
+                result = num1 + num2;
+                break;
+            case '-':
+                result = num1 - num2;
+                break;
+            case '*':
+                result = num1 * num2;
+                break;
+            case '/':
+                if (num2 != 0)
                     result = num1 / num2;
-                    break;
-                default:
-                    Console.WriteLine("Invalid operator.");
-                    return;
-            }
-
-            Console.WriteLine($"Result: {result}");
+                else
+                    Console.WriteLine("Error: Division by zero!");
+                break;
+            default:
+                Console.WriteLine("Invalid operator!");
+                return;
         }
+
+        Console.WriteLine($"Result: {num1} {op} {num2} = {result}");
     }
 }
